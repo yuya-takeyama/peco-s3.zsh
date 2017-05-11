@@ -9,6 +9,10 @@ Zsh command to cat file in a s3 bucket by filtering with peco
 * Save `peco-s3.zsh` somewhere
 * Load it in your `~/.zshrc`
   * `source /path/to/peco-s3.zsh`
+* Set your AWS credentials as environment variable
+  * `AWS_REGION`
+  * `AWS_ACCESS_KEY_ID`
+  * `AWS_SECRET_ACCESS_KEY`
 
 ## Usage
 
