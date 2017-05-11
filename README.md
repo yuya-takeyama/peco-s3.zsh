@@ -2,6 +2,8 @@
 
 Zsh command to cat file in a s3 bucket by filtering with peco
 
+![Screenshot](screenshot.gif)
+
 ## Installation
 
 * Save `peco-s3.zsh` somewhere
